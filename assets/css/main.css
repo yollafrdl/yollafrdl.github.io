@@ -1435,6 +1435,11 @@ input, select, textarea {
 
 	p, ul, ol, dl, table, blockquote, form {
 		margin-bottom: 2em;
+		color: #A6A6A4;
+	}
+
+	h1 {
+		color: #495B8D;
 	}
 
 /* Table */
