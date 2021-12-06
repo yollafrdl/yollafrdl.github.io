@@ -1433,12 +1433,12 @@ input, select, textarea {
 		clear: both;
 	}
 
-	p, ul, ol, dl, table, blockquote, form {
+	ul, ol, dl, table, blockquote, form {
 		margin-bottom: 2em;
 		color: #404040;
 	}
 
-	li {
+	li, p {
 		color: #404040;
 	}
 
