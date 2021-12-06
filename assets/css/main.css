@@ -1434,7 +1434,7 @@ input, select, textarea {
 	}
 
 	p, ul, li, ol, dl, table, blockquote, form {
-		margin-bottom: 2em;
+		margin-bottom: 0.5em;
 		color: #606060;
 	}
 
