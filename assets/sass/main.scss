@@ -236,9 +236,13 @@
 		clear: both;
 	}
 
-	p, ul, li, ol, dl, table, blockquote, form {
-		margin-bottom: 0.5em;
-		color: #606060;
+	p, ul, ol, dl, table, blockquote, form {
+		margin-bottom: 2em;
+		color: #404040;
+	}
+
+	li {
+		color: #404040;
 	}
 
 	h1 {

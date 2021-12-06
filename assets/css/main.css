@@ -1433,9 +1433,13 @@ input, select, textarea {
 		clear: both;
 	}
 
-	p, ul, li, ol, dl, table, blockquote, form {
-		margin-bottom: 0.5em;
-		color: #606060;
+	p, ul, ol, dl, table, blockquote, form {
+		margin-bottom: 2em;
+		color: #404040;
+	}
+
+	li {
+		color: #404040;
 	}
 
 	h1 {
@@ -2148,7 +2152,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		color: rgba(255, 255, 255, 0.45);
+		color: rgba(255, 255, 255, 0.966);
 		text-align: center;
 		padding: 2em 0 0 0;
 		font-size: 0.75em;
