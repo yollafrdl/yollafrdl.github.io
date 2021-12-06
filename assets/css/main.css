@@ -1433,9 +1433,9 @@ input, select, textarea {
 		clear: both;
 	}
 
-	p, ul, ol, dl, table, blockquote, form {
+	p, ul, li, ol, dl, table, blockquote, form {
 		margin-bottom: 2em;
-		color: #A6A6A4;
+		color: #646c76;
 	}
 
 	h1 {
