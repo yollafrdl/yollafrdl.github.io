@@ -1532,7 +1532,7 @@ input, select, textarea {
 		margin-bottom: 3em;
 	}
 
-		section > :last-child, section:last-child, article > :last-child, article:last-child {
+		section > :last-child, section:last-child, article > :last-child, article:last-child, p {
 			margin-bottom: 0;
 		}
 

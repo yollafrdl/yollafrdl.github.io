@@ -334,7 +334,7 @@
 		margin-bottom: 3em;
 
 		> :last-child,
-		&:last-child {
+		&:last-child, p {
 			margin-bottom: 0;
 		}
 	}
